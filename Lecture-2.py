@@ -33,7 +33,7 @@ taxableIncome = grossIncome - STANDARED_DEDUCTION - \
 DEPENDENT_EDUCATION * numDependents * TAX_RATE
 
 # print the income tax
-print("Thje income tax is :", taxableIncome)
+print("The income tax is :", taxableIncome)
 
 
 
