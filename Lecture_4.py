@@ -1,5 +1,5 @@
 """
-testing foirmating 
+testing formating 
 """
 # withouyt using formatting options
 print(1, 100000)
