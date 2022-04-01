@@ -14,7 +14,6 @@
 * Need to install anaconda python click this <a href="https://www.anaconda.com/distribution/"> link </a>
 ### Don't want to install Python? and need an online environment :thumbsup:
 * use this link <a href="https://datalab.karunya.edu/"> https://datalab.karunya.edu/ </a>
-* Note : The above environment is available when you are connected to KITS network.
 * Python Tutorial - Tutorialspoint <a href="https://www.tutorialspoint.com/execute_python_online.php">Execute Python Online </a>
 * Python 3 - Repl.it <a href="https://repl.it/@enaard/Python-3">Run python program</a>
 * PythonAnywhere <a href="https://www.pythonanywhere.com/try-ipython/"> Try IPython from your Browser</a>
